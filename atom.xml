@@ -4,7 +4,7 @@
   <title><![CDATA[Epitaph for One Love]]></title>
   <link href="http://epitaph41love.github.io/atom.xml" rel="self"/>
   <link href="http://epitaph41love.github.io/"/>
-  <updated>2015-10-01T10:02:28+02:00</updated>
+  <updated>2015-10-01T14:18:00+02:00</updated>
   <id>http://epitaph41love.github.io/</id>
   <author>
     <name><![CDATA[Shy]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[2015]]></title>
+    <link href="http://epitaph41love.github.io/blog/2015/10/01/2015/"/>
+    <updated>2015-10-01T14:15:13+02:00</updated>
+    <id>http://epitaph41love.github.io/blog/2015/10/01/2015</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
